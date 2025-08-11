@@ -518,7 +518,7 @@ img {
     margin: 0 4px;
 }
 
-/* Responsive */
+/* Responsive */ 
 @media screen and (max-width:1200px) {
     body {
         font-size: 12px;
@@ -601,4 +601,4 @@ img {
 
     .footer__2__left {
         display: none;
-    }
+    }}

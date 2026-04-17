@@ -39,6 +39,6 @@ tripadvisor-clone/
 ---
 
 ## ⚡ How to Run
-1. Clone the repository: link - https://sowndhar-ms7.github.io/Trip-Advisor/
-   ```bash
+1. Clone the repository: 
+  link - https://sowndhar-ms7.github.io/Trip-Advisor/ ```bash
  
